@@ -7,4 +7,4 @@ edition = "2021"
 
 [dependencies]
 embassy-time = "0.2.0"
-embedded-hal-async = "1.0.0-rc.2"
+embedded-hal-async = "1.0.0-rc.3"
